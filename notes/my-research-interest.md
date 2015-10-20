@@ -29,6 +29,8 @@ Here is how you _might_ be able to add a local image file
 ![picture-water](./img/cropped-IMG_69061.jpg)
 
     
+added line
+talk about something else
  
 
 
